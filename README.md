@@ -1,5 +1,4 @@
 # gamePhaser3_JS
-UNI7game_phaserJS
 -> Nome do Jogo: Skyhawk
 
 -> Gênero: Tiro/Shoter -> Shoot 'em up
